@@ -71,7 +71,7 @@ Luego abre el navegador en `http://localhost:8501`.
 ## Repositorio de GitHub
 
 > _Reemplazar con el enlace real del repositorio del proyecto._
-> `https://github.com/<usuario>/<repositorio>`
+> `https://github.com/crisberth-s/Ecuaci-n-de-Black-Scholes.git`
 
 ## Autores
 
